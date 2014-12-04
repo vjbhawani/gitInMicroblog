@@ -1,0 +1,2 @@
+from lsapp/models import db
+db.create_all()
