@@ -1,0 +1,10 @@
+Flask==0.10.1
+Flask-SQLAlchemy==2.0
+Jinja2==2.7.3
+python-apt==0.8.3ubuntu7.2
+python-dateutil==1.5
+python-debian==0.1.21-nmu2ubuntu1-ubuntu12.04.2
+python-distutils-extra==2.34
+python-virtkey==0.60.0
+virtualenv==1.11.6
+
